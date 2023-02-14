@@ -1,0 +1,37 @@
+.btn {
+  background-color: wheat;
+  padding: 8px 15px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.btn2 {
+  background-color: rgb(57, 58, 119);
+  padding: 8px 15px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+#bold2 {
+  display: none;
+}
+#italic2 {
+  display: none;
+}
+#underline2 {
+  display: none;
+}
+#left2 {
+  display: none;
+}
+#center2 {
+  display: none;
+}
+#right2 {
+  display: none;
+}
+
+#textarea {
+  /* text-align: center; */
+  font-size: 20px;
+}
